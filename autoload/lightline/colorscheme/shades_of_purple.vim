@@ -19,9 +19,9 @@ let s:p.inactive.left = [[["#1E1E3F", 234], ["#A599E9", 140]], [["#1E1E3F", 234]
 let s:p.inactive.middle = [[["#1E1E3F", 234], ["#A599E9", 140]]]
 let s:p.inactive.right = [[["#1E1E3F", 234], ["#A599E9", 140]], [["#1E1E3F", 234], ["#A599E9", 140]]]
 
-let s:p.insert.left = [[["#1E1E3F", 234], ["#00FF00", 10]], [["#1E1E3F", 234], ["#d2ffc7", 194]]]
+let s:p.insert.left = [[["#1E1E3F", 234], ["#9EFFFF", 10]], [["#1E1E3F", 234], ["#A599E9", 194]]]
 let s:p.insert.middle = [[["#9EFFFF", 159], ["#1E1E3F", 234]]]
-let s:p.insert.right = [[["#1E1E3F", 234], ["#00FF00", 10]], [["#1E1E3F", 234], ["#d2ffc7", 194]]]
+let s:p.insert.right = [[["#1E1E3F", 234], ["#9EFFFF", 10]], [["#1E1E3F", 234], ["#A599E9", 194]]]
 
 let s:p.replace.left = [[["#1E1E3F", 234], ["#FF628C", 204]], [["#1E1E3F", 234], ["#ff91ae", 211]]]
 let s:p.replace.middle = [[["#A599E9", 140], ["#1E1E3F", 234]]]
